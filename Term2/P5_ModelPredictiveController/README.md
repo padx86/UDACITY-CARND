@@ -1,4 +1,4 @@
-# PID Controller project
+# MPC project
 #### Project submission
 ## Remarks
 * src and build directories containing files 
