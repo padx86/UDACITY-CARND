@@ -1,0 +1,8 @@
+prefix=/mnt/c/Users/Padx/OneDrive/UDACITY/Term3/CarND-Capstone/ros/devel
+
+Name: twist_controller
+Description: Description of twist_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/mnt/c/Users/Padx/OneDrive/UDACITY/Term3/CarND-Capstone/ros/devel/lib 
+Requires: 

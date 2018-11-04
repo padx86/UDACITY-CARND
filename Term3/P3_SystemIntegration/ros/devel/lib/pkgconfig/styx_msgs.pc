@@ -1,0 +1,8 @@
+prefix=/mnt/c/Users/Padx/OneDrive/UDACITY/Term3/CarND-Capstone/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/mnt/c/Users/Padx/OneDrive/UDACITY/Term3/CarND-Capstone/ros/devel/include
+Libs: -L/mnt/c/Users/Padx/OneDrive/UDACITY/Term3/CarND-Capstone/ros/devel/lib 
+Requires: 
